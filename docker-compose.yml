@@ -4,3 +4,4 @@ asciidoctor:
     - .:/root
   working_dir: /root
   command: /bin/sh -c "asciidoctorjs -s application/**/index.adoc"
+
