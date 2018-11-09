@@ -2,8 +2,6 @@
 
 -   [Premiers pas dans l'ENT](application/timeline.md)
 
--   [Actualités](application/actualites.md)
-
 -   [Annuaire](application/directory.md)
 
 -   [Blog](application/blog.md)
