@@ -215,8 +215,7 @@ Un utilisateur peut maintenant glisser-déposer un ou plusieurs documents depuis
 
 Cette fonctionnalité est également disponible dans les zones de textes et pour les vignettes des contenus des services.
 
-image:../../wp-content/uploads/2015/04/NDV-61.png**  
-**
+![](.gitbook/assets/NDV-61.png)
 
 **Espace documentaire : suppression des partages des documents mis à la corbeille**
 

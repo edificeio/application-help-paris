@@ -57,8 +57,7 @@ Accès à la page de recherche
 
 Pour accéder à la page de recherche, vous devez cliquer sur l’icône de recherche de la barre de menu principale de l’ENT.
 
-![](.gitbook/assets/Acces0011.png)[  
-](../../wp-content/uploads/2016/06/Acces001.png)
+![](.gitbook/assets/Acces0011.png)
 
 Si vous cliquez sur l’icône « Loupe », vous accédez directement à l’application.
 

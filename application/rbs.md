@@ -193,8 +193,8 @@ La ressource doit ensuite être caractérisée par:
 
 3.  Une description éditée par un éditeur de texte HTML permettant d’intégrer différents contenus: texte, images, liens, son…
 
-[image:../../wp-content/uploads/2015/06/r15.png\[r1,width=502,height=411](../../wp-content/uploads/2015/06/r15.png)  
-\]Après enregistrement, la nouvelle ressource s’affiche dans la liste des ressources. En cochant la case à cocher y correspondant, des boutons d’action apparaissent en bas de page pour supprimer ou éditer la ressource.
+![](.gitbook/assets/r15.png)  
+Après enregistrement, la nouvelle ressource s’affiche dans la liste des ressources. En cochant la case à cocher y correspondant, des boutons d’action apparaissent en bas de page pour supprimer ou éditer la ressource.
 
 ![](.gitbook/assets/r23.png)
 

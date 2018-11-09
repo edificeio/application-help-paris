@@ -60,8 +60,7 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 
 -   Une description
 
-[  
-image:../../wp-content/uploads/2016/01/FRISE\_21.png\[image,width=450](../../wp-content/uploads/2016/01/FRISE_21.png)\]
+![](.gitbook/assets/FRISE_21.png)
 
 -   Une fois l’événement créé, il apparaît dans la frise chronologique.
 

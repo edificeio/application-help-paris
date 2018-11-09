@@ -35,8 +35,9 @@ Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’acc
 
 3.  Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
-[image:../../wp-content/uploads/2016/01/partagePad2.png\[partagePad2,width=450,height=326](../../wp-content/uploads/2016/01/partagePad2.png)  
-\]Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
+![](.gitbook/assets/partagePad2.png)  
+
+Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
 -   **Lecteur** : l’utilisateur peut lire le contenu
 

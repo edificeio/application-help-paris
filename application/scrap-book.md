@@ -46,8 +46,7 @@ Une fois [votre cahier multimédia créé](http://one1d.fr/aide-support/aide-su
 
 Lorsque le cahier est affiché à l’écran, cliquez sur « Modifier ».
 
-[image:../../wp-content/uploads/2015/06/m43.png\[m4,width=470,height=382](../../wp-content/uploads/2015/06/m43.png)  
-\]
+![](.gitbook/assets/m43.png)
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » (1) ou sur la flèche à droite du cahier (2).
 

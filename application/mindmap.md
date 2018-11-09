@@ -34,8 +34,8 @@ Cliquez sur le nom de votre carte pour la créer.
 
 L’éditeur de texte vous permet de créer facilement une carte mentale.
 
-[  
-](../../wp-content/uploads/2015/06/m22.png)![](.gitbook/assets/m5.png)
+![](.gitbook/assets/m22.png)
+![](.gitbook/assets/m5.png)
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ».
 

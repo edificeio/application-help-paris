@@ -29,8 +29,9 @@ Indiquez le(s) destinataire(s) de votre message dans le champ « A » en saisi
 
 2.  Indiquez le sujet de votre message dans le champ « Objet ».
 
-[  
-](../../wp-content/uploads/2015/03/Messagerie-3.png)Dans la fenêtre de saisie de contenu, rédigez votre message (1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document à votre message.
+![](.gitbook/assets/Messagerie-3.png)
+
+Dans la fenêtre de saisie de contenu, rédigez votre message (1). Cliquez sur "Ajouter une pièce jointe" (2) pour joindre un document à votre message.
 
 ![](.gitbook/assets/messagerie6-1024x818.png)  
 Choisissez le document depuis votre poste de travail.

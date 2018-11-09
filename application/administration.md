@@ -148,7 +148,7 @@ Pour cela, suivez les étapes ci-dessous :
 ![](.gitbook/assets/a32.png)  
 ![](.gitbook/assets/a41.png)
 
-**4. [ ](../../wp-content/uploads/2015/07/a181.png)Créer manuellement un nouvel utilisateur**
+**4. Créer manuellement un nouvel utilisateur**
 
 Pour créer un nouvel utilisateur, dans l’annuaire, cliquez sur l’icône « Créer un utilisateur » (1) puis saisissez les informations suivantes  (2):
 
@@ -431,9 +431,7 @@ Pour donner des droits de communication vers d’autres groupes pour les membres
 
 Pour rendre votre groupe visible par d’autres personnes, sélectionnez le groupe qui doit le voir dans la partie de gauche (1) puis sélectionnez le groupe à rendre visible dans la partie droite (2).
 
-[  
-image:../../wp-content/uploads/2015/07/a101.png\[a10,width=567,height=365](../../wp-content/uploads/2015/07/a83.png)  
-\]
+![](.gitbook/assets/a101.png)  
 
 Note de version
 ===============

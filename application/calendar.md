@@ -6,8 +6,7 @@ Présentation
 Le service Agenda permet de créer et partager des évènements.
 
 [  
-image:../../wp-content/uploads/2016/01/Agenda-Page-1-1024x615.png\[Agenda - Page 1,width=599,height=360](../../wp-content/uploads/2016/01/Agenda-Page-1.png)  
-\]
+![](.gitbook/assets/Agenda-Page-1.png)  
 
 Il comprend les éléments suivants :
 
